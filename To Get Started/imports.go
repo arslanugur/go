@@ -1,5 +1,5 @@
 Imports
-      //Each package has exported names, which you can access after importing them.
+      //Each package has exported names from packages, which you can access after importing them.
 
       //In Go, a name is exported if it begins with a capital letter.
       //You can access the exported names using the package name, a dot, and the exported name.
@@ -50,6 +50,16 @@ func main() {
         4. Uses the Println() function of the fmt package to generate the desired output.
 
         We will learn more about functions in the coming modules.*/
-
-
         
+      //Example:
+package main
+
+import "fmt"
+
+func main() {
+  /* fmt.Println("1") */
+  fmt.Println("2")
+  //fmt.Println("3")
+}   //output: 2
+        
+
