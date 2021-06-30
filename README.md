@@ -1,4 +1,4 @@
-# go
+# golang
 |To Get Started|Basic Concepts|Conditionals and Loops|Functions|Pointers & Structs|Array, Range, Map|Concurrency|
 |:---------:|:----------:|:---------:|:---------:|:-------------:|:----------:|:------------:|
 |[Hello World]()|[Variables]()|[if/else]()|[Introducing Functions]()|[Pointers]()|[Arrays]()|[Intro to Concurency]()|
