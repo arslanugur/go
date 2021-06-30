@@ -11,7 +11,7 @@
 |[Module 1 Quiz]()|[Taking Input]()|[Demo: Say The Numbers]()|[Scope]()|[Methods]()|[Practice: How Tall?]()||
 |[Demo: Debug & Fix]()|[Practice: Feet To Inches]()| |[Module 2 Quiz]()|[Practice: Withdrawing Cash]()|[Variadic Functions]()||
 |                     |                            | |[Demo: Age on Mars]()|[Module 3 Quiz]()|[Practice: GPS]()||
-|                      |                           | |                     |[Demo: Ticking Timer]()||
+|                      |                           | |                     |[Demo: Ticking Timer]()|[Module 3 Quiz]()||
 |                       |                           | |                    |   |[Demo: Match Results]()||
 
 
