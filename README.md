@@ -6,11 +6,11 @@
 |[Packages]()|[Practice: Contact Data]()|[Switch]()|[Arguments]()|
 |[Imports]()|[Constants]()|[Practice: Let's Get Loud]()|[Practice: On Repeat]()|
 |[Practice: Fix The Output]()|[Arithmetic Operators]()|[Loops]()|[Returning From Functions]()|
-|[Comments]()|[Practice: All Packed Up]()|[Practice: How Many Rabbits]()|[Practice: The Return Of The Square]()|
-|[Practice: To Comment Or Not To Comment]()|[Relational & Logical Operators]()|[Module 2 Quiz]()|[Defer]()|
-|[Module 1 Quiz]()|[Taking Input]()|[Demo: Say The Numbers]()|[Scope]()|
-|[Demo: Debug & Fix]()|[Practice: Feet To Inches]()| |[Module 3 Quiz]()|
-|                     |                            | |[Demo: Age on Mars]()|
+|[Practice: To Comment Or Not To Comment]()|[Practice: All Packed Up]()|[Practice: How Many Rabbits]()|[Practice: The Return Of The Square]()|
+|[Demo: Debug & Fix]()|[Relational & Logical Operators]()|[Module 2 Quiz]()|[Defer]()|
+|    |[Taking Input]()|[Demo: Say The Numbers]()|[Scope]()|
+|    |[Practice: Feet To Inches]()| |[Module 3 Quiz]()|
+|    |                            | |[Demo: Age on Mars]()|
 
 
 |[Pointers & Structs]()|[Array, Range, Map]()|[Concurrency]()|
